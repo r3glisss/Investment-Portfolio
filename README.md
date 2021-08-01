@@ -1,2 +1,2 @@
-# Crypto-Portfolio
-Investment portfolio for cryptocurrencies
+# Portfolio
+Optimal Investment portfolio
